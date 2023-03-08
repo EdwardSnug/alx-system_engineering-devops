@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-Repo for 0X00 - Shell basics
+This repository is on shell basics project 0x00
