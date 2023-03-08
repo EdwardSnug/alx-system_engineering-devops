@@ -5,3 +5,4 @@ cd ~ is used to return to the home directory
 ls -l Display in a long format
 ls -la Display in a long format and include hidden files
 ls -lan Display in digit format in long version
+mkdir /tmp/myfirstdirectory creates the named directory to the tmp directory as parent folder
