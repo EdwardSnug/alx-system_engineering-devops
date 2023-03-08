@@ -8,3 +8,4 @@ ls -lan Display in digit format in long version
 mkdir /tmp/myfirstdirectory creates the named directory to the tmp directory as parent folder
 mv is used to move or rename files or directories
 rm is used to delete files and directories can be used with a set of wildcards
+cd - is used to return to previous directory
