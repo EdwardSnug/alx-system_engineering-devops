@@ -11,3 +11,4 @@ rm is used to delete files and directories can be used with a set of wildcards
 cd - is used to return to previous directory
 file - file commaond is used to determine what kind of data a file contains
 ln -s used in creating sybolic links
+cp is used to copy files or directories
